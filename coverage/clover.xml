@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1687331649947" clover="3.2.0">
-  <project timestamp="1687331649949" name="All files">
-    <metrics statements="25" coveredstatements="25" conditionals="28" coveredconditionals="28" methods="6" coveredmethods="6" elements="59" coveredelements="59" complexity="0" loc="25" ncloc="25" packages="1" files="3" classes="3"/>
+<coverage generated="1687333804916" clover="3.2.0">
+  <project timestamp="1687333804916" name="All files">
+    <metrics statements="27" coveredstatements="27" conditionals="28" coveredconditionals="28" methods="7" coveredmethods="7" elements="62" coveredelements="62" complexity="0" loc="27" ncloc="27" packages="1" files="4" classes="4"/>
     <file name="calculator.js" path="C:\Users\HP\Documents\Git repos\Testing-practice\js\calculator.js">
       <metrics statements="17" coveredstatements="17" conditionals="24" coveredconditionals="24" methods="4" coveredmethods="4"/>
       <line num="2" count="1" type="stmt"/>
@@ -21,6 +21,11 @@
       <line num="28" count="1" type="stmt"/>
       <line num="30" count="3" type="stmt"/>
       <line num="35" count="1" type="stmt"/>
+    </file>
+    <file name="capitalizeString.js" path="C:\Users\HP\Documents\Git repos\Testing-practice\js\capitalizeString.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
     </file>
     <file name="reverseString.js" path="C:\Users\HP\Documents\Git repos\Testing-practice\js\reverseString.js">
       <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
