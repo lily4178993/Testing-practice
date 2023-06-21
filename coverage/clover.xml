@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1687326079238" clover="3.2.0">
-  <project timestamp="1687326079239" name="All files">
+<coverage generated="1687326331726" clover="3.2.0">
+  <project timestamp="1687326331726" name="All files">
     <metrics statements="5" coveredstatements="5" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1" elements="10" coveredelements="10" complexity="0" loc="5" ncloc="5" packages="1" files="1" classes="1"/>
     <file name="stringLength.js" path="C:\Users\HP\Documents\Git repos\Testing-practice\js\stringLength.js">
       <metrics statements="5" coveredstatements="5" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
