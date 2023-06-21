@@ -8,6 +8,6 @@ describe ( 'properly capitalize first string', () => {
         expect(capitalizeString('world')).toBe('World');
     });
     test('Capitalize "this is a test" in "This is a test"', () => {
-        expect(capitalizeString(' this is a test')).toBe(' This is a test');
+        expect(capitalizeString('this is a test')).toBe('This is a test');
     });
 });
